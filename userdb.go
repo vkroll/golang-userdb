@@ -9,7 +9,7 @@ import (
 	"os"
 	"strings"
 
-	"https://golang.org/x/crypto/bcrypt"
+	"golang.org/x/crypto/bcrypt"
 )
 
 type User struct {
